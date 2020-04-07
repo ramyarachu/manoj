@@ -228,3 +228,22 @@ git add README.mdgit add README.md
 git add README.md
 git commit -m "first commit"
 git commit -m "first commit"
+echo maven web application
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ramyarachu/maven-web-application.git
+git push -u origin master
+git init
+git branch
+git branch -a
+git remote add origin https://github.com/ramyarachu/maven-web-application.git
+git branch -a
+git remote -v
+git push origin master
+ls
+git init
+git add .
+git commit -m "first commit"
+git remote add originnhttps://github.com/ramyarachu/maven-web-appllication.git
+git push origin master --force
