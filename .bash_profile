@@ -6,3 +6,4 @@ if [ -f ~/.bashrc ]; then
 fi
 
 # User specific environment and startup programs
+export PATH=$PATH:M2_HOME/bin

@@ -104,3 +104,127 @@ git remote add origin https://github.com/ramyarachu/maggi.git
 git push -u origin master
 echo manoj
 git push -u origin master
+echo manoj
+git init
+git remote add origin https://github.com/ramyarachu/manoj.git
+git remote origin
+git push -u origin master
+git branch
+git status
+echo manoj
+git init
+git remote add origin https://github.com/ramyarachu/manoj.git
+git remote origin
+git push -u origin master
+git add -A
+git add -a
+git add -A
+git commit -m "intilize commit"
+git push -u origin master
+git branch
+git branch -a
+git remote add origin https://github.com/ramyarachu/manoj.git
+git branch -a
+git remote -v
+git push origin master
+ramyarachu335@gmail.com
+git push origin master
+git push origin
+git push origin master
+rachu2touch manu.txt
+git push origin master
+ls
+ls -l
+sudo su
+ls
+git branch
+git status
+git push origin master
+ls
+git version
+git branch
+b
+git status
+ls
+ mkdir devops
+ls l
+ls -l
+#!/bin/bash
+#title:install java
+#title:
+author :mithuntechonlogiesclear
+clear
+yum install wget -y
+sudo su
+java -version
+maven -version
+yum install wget zip unzip -y
+sudo su
+git version
+git versio
+git -version
+ git version
+java -version
+maven -version
+java -version
+uname
+sudo su
+git -version
+git version
+java version
+java -version
+maven -version
+sudo su-
+uname
+sudo su -
+maven -version
+source ~/.bash_profile
+mvn -version
+echo "export M2_HOME=/opt/apache-maven-3.6.3" >> ~/.bash_ profile
+echo 'export PATH=$PATH:M2_HOME/bin' >> ~/.bash_profile
+sorce ~/ .bash_profile
+mvn -version
+source ~/ .bash_profile
+maven -version
+mvn -version
+clear
+source ~/.bash_profile
+mvn -version
+source ~/.bash_profile
+mvn -version
+sudo su-
+sudo su -
+cd /opt
+ls
+wgethttps://github.com/MithunTechnologiesDevOps/maven-web-application.git
+
+wget https://github.com/MithunTechnologiesDevOps/maven-web-application.git
+ls
+cd maven-web-application.git
+sudo su -
+ls
+ls -l
+java -version
+cd /opt
+sudo su -
+ls
+sudo su -
+git
+echo
+echo maven application
+git init
+git add README
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ramyarachu/maven-web-application.git
+git push -u origin master
+ramyarachu
+git push -u origin master
+git push -u origin master
+git push -u origin master
+echo maven web application
+git init
+git add README.mdgit add README.md
+git add README.md
+git commit -m "first commit"
+git commit -m "first commit"
