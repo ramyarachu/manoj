@@ -269,3 +269,14 @@ git remote add origin https://github.com/ramyarachu/maven-web-appllication.git
 git remote
 echo maven web application
 git init
+cd ~
+git clone https://github.com/ramyarachu/maven-web-application.git
+cd maven web application
+git status
+git add .
+git commit -m "my project"
+git push origin master
+clear
+git init
+cd /opt
+git init
