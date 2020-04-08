@@ -247,3 +247,25 @@ git add .
 git commit -m "first commit"
 git remote add originnhttps://github.com/ramyarachu/maven-web-appllication.git
 git push origin master --force
+git branch
+git branch -a
+git remote add originhttps://github.com/ramyarachu/maven-web-application.git
+git remote add origin https://github.com/ramyarachu/maven-web-application.git
+git branch -a
+git remote -v
+git push origin master
+ls
+git init
+git add.
+git add .
+git commit -m "first commit"
+git init
+git remote add origin https://github.com/ramyarachu/maven-web-appllication.git 
+git remote origin
+git push -u origin master
+git commit a
+git init
+git remote add origin https://github.com/ramyarachu/maven-web-appllication.git
+git remote
+echo maven web application
+git init
